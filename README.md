@@ -20,7 +20,7 @@ A full-featured Chat API built using modern Node.js technologies. This API suppo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-api.git
+   git clone https://github.com/aka-mikejs01/chat-api.git
    cd chat-api
    ```
 
